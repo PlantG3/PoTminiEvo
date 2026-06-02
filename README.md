@@ -3,7 +3,7 @@ This is the repository containing some scripts used in the following manuscript:
 Cruppe et al, 2026, Evolution of supernumerary chromosomes in wheat blast fungal pathogens
 
 ## content
-Below briefly explains each analysis:
+Below briefly explains each analysis:  
 01_tree: analysis from reads to a maximum likelihood tree    
 02_asm: scripts for genome assembly and polishing  
 03_annotation: genome annotation scripts  
