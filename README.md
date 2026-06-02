@@ -13,7 +13,7 @@ Below briefly explains each analysis:
 **07_effector**: mapping known effectors to genomes using [protmap](https://github.com/liu3zhenlab/protmap.git)  
 **08_clustering**: syntenic sequence clusters to identify non-founder genomic regions  
 
-## Contacts
+## Contact
 Contact by email to Sanzhen Liu ([liu3zhen@ksu.edu](mailto:liu3zhen@ksu.edu)) if you have questions.
 
 ## License
