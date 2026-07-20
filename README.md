@@ -17,5 +17,5 @@ Below briefly explains each analysis:
 Contact Sanzhen Liu ([liu3zhen@ksu.edu](mailto:liu3zhen@ksu.edu)) if you have questions.
 
 ## License
-The package chrcomp is distributed under MIT licence.
+Scripts are distributed under the MIT licence.
 
