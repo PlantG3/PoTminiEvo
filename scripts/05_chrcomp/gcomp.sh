@@ -3,7 +3,9 @@
 #SBATCH --mem=24G
 #SBATCH --time=1-00:00:00
 
-perl ~/scripts2/chrcomp/gcomp \
+# script to compare two genomes: Br36.fasta and Br58.fasta
+
+perl <path_to gcomp> \
 	--qry Br36.fasta \
 	--qryname Br36 \
 	--ref Br58.fasta \

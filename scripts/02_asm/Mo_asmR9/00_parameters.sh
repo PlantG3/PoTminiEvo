@@ -5,7 +5,8 @@
 export fast5_directories="
 xxx
 "
-export guppy_model="/homes/liu3zhen/software/guppy/ont-guppy-cpu/data/dna_r9.4.1_450bps_hac.cfg"
+export guppy_model=<fullpath_to_cfg>
+# e.g., "dna_r9.4.1_450bps_hac.cfg"
 export basecall_narray=5000
 export basecall_cpus=8
 

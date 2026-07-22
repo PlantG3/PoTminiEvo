@@ -13,4 +13,3 @@
 3. A maximum likelihood tree was constructed with [iqtree2](https://github.com/iqtree/iqtree2)  
    - The procedure was implemented in [1c_iqtree2.sh](03_tree/1c_iqtree2.sh)
 
-
