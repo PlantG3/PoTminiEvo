@@ -1,6 +1,6 @@
 # PoTminiEvo
 This is the repository containing some scripts used in the following manuscript:  
-Cruppe et al, 2026, Evolution of supernumerary chromosomes in wheat blast fungal pathogens
+Cruppe et al, 2026, Supernumerary Chromosome Dynamics Throughout the Emergence of Wheat Blast Disease
 
 ## Content
 Below briefly explains each analysis:  
